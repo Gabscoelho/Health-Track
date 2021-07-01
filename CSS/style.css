@@ -1,0 +1,43 @@
+  .altura {
+      height: 100vh;
+  }
+  .imagem__fundo {
+    background-image: url(../imagens/fundo-final.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;}
+    
+
+  body{
+    background-color: black;}
+
+  .amarelo{
+    background-color: #d8ca6e;
+    border-radius: 20px;
+    border: none;
+  }
+
+  .botao{
+    background-color: #FFDE00;
+    font-weight: bold;
+    border: none;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+    color: black;
+    text-transform: uppercase;
+   }
+
+    .botao:hover{
+      background-color: #8d7a01;
+    }
+
+    *{
+      color:#FFDE00;
+      font-family: Helvetica;
+    }
+
+    .teste{
+      margin-top: 30px;
+    }

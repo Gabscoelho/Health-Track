@@ -1,0 +1,25 @@
+.altura {
+    height: 100vh;
+}
+.imagem__fundo {
+  background-image: url(../imagens/fundo-atividade.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;}
+
+  #table {
+      color:#FFDE00 ;
+  }
+
+  body{
+    background-color: black;}
+
+    .botao{
+      background-color: #757574;
+      font-weight: bold;
+      border: none;
+      height: 40px;
+      border-radius: 20px;
+      margin-top: 30px;
+      cursor: pointer;
+      color: black;}

@@ -1,0 +1,24 @@
+.altura {
+    height: 100vh;
+}
+.imagem__fundo {
+  background-image: url(../imagens/fundo-principal.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;}
+
+  #table {
+      color:#FFDE00 ;
+  }
+
+  body{
+    background-color: black;}
+
+    imagem {
+      
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 50%;
+      width: 100000px;
+    
+    }
